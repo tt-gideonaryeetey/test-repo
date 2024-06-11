@@ -1,1 +1,1 @@
-This is fucking awesome!
+This is awesome!
