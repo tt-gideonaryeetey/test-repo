@@ -1,2 +1,1 @@
-SECRET=830858035
 Let's have a nice day!
