@@ -1,2 +1,2 @@
 empty doc - this is an addition
-secret=!@53cur3c0d32023
+secret=cur3c0d32023
